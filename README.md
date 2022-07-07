@@ -4,4 +4,5 @@ image2emoji is a Discord bot that converts image to emoji
 
 # Getting started
 Copy ./env/.env.sample and name it '.env.development' & '.env.production' and fill it
+
 Run 'npm run start' or 'npm run start-dev'
